@@ -1,4 +1,4 @@
-#Machine Failure Prediciton
+# Machine Failure Prediciton
 
 <img src="https://user-images.githubusercontent.com/90456255/212119220-29f38bfb-dec8-4326-9e06-3bbf9b2499e0.jpg" width="1600px" height="400px">
 
